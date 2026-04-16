@@ -1,4 +1,4 @@
-# CS441 Network Emulator — Project Guide
+# Network Emulator — Project Guide
 
 ## Table of Contents
 
